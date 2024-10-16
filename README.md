@@ -1,0 +1,1 @@
+This project is a Python-based application designed to support the Humber College admissions office by automating GPA calculations and student classification. The system processes student data and high school grades, providing insights into student allocations across schools and generating automated reports for better admission decisions.
